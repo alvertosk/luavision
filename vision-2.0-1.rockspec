@@ -4,7 +4,7 @@ version = "2.0-1"
 source = {
    --url= "/home/wizgrav/luavision/lua-vision"
    url= "git://github.com/alvertosk/luavision.git",
-   branch= "dev"
+   branch= "master"
 
 }
 
